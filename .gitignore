@@ -1,0 +1,31 @@
+# Visual Studio temporary files
+.vscode/
+.vs/
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# User-specific files and settings
+*.suo
+*.user
+*.sln.docstates
+
+# NuGet packages
+packages/
+
+# Visual Studio auto-generated files
+*.Design.cs
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Visual Studio 2019 configuration folder
+.vs2019/
